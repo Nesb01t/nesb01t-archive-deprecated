@@ -1,0 +1,31 @@
+{
+  "name": "fantasy-house-cn",
+  "author": "nesb01t",
+  "version": "0.1.0",
+  "main": "./main.js",
+  "homepage": "./",
+  "description": "艾欧泽亚售楼中心 electron 版",
+  "scripts": {
+    "start": "electron ./main.js",
+    "build": "node ./build.js"
+  },
+  "devDependencies": {
+    "electron": "^25.5.0",
+    "electron-builder": "^24.6.3",
+    "electron-is-dev": "^2.0.0"
+  },
+  "build": {
+    "productName": "fantasy-house-cn",
+    "appId": "com.nesb01t.electron",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "build/**/*",
+      "main.js"
+    ]
+  },
+  "dependencies": {
+    "electron-is-dev": "^2.0.0"
+  }
+}
