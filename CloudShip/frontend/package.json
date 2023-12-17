@@ -1,0 +1,36 @@
+{
+
+  "name": "frontend",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "main.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "chinese-conv": "^1.0.1",
+
+    "pinyin": "^3.0.0-alpha.4",
+
+    "sass": "^1.59.3",
+
+    "uview-ui": "^2.0.35"
+
+  }
+
+}
+

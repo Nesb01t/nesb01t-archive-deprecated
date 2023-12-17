@@ -1,0 +1,22 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [{
+			"path": "pages/main",
+			"style": {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"backgroundColor": "#dedede",
+		"app-plus": {
+			"scrollIndicator": "none"
+		}
+	},
+	"uniIdRouter": {}
+}
