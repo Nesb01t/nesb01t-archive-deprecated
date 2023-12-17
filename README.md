@@ -9,3 +9,4 @@
 | EasyDalamud       | C#, Dalamud | Dalamud / FFXIV卫月 - 查询该副本队友历史 Logs，统计中位数和最佳 Rank                                   |
 | FFXIVCaptureUtils | Python      | FFXIV 相关工具/爬虫                                                                      |
 | FantasyHouse      | Electron    | 通过 <艾欧泽亚售楼中心> 的售楼信息筛选你相好的地皮，赞美售楼中心！                                                |
+| XIVAutoKey        | C#, Dalamud | Dalamud / FFXIV卫月 - press custom hotkey automatically                              |

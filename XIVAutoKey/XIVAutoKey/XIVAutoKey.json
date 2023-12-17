@@ -1,0 +1,11 @@
+{
+    "Author": "Nesb01t",
+    "Name": "XIVAutoKey",
+    "Punchline": "免费的 FFXIV 工具库, 包含一些简单的自动化类, 供学习 & 开发工具用途",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "InternalName": "XIVAutoKey",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "autokey"
+    ]
+}
