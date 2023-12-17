@@ -5,3 +5,4 @@
 | MonetDungeon | Spigot   | ☕️ SPIGOT - Quantum 服务器使用的地牢系统插件，支持自定义指令和流程控制                                      |
 | NodePacs     | Node.js  | 基于 node.js 前后端一体开发的 DICOM 解析平台                                                     |
 | CloudShip    | Vue, Koa | 🌥️ 轻量云端 Web/APP 社区，通过 Koa + Node.js 实现 json、csv 后端数据热更新，在多种平台开箱即用(Web/PC/APP/小程序) |
+| JavaPacs     | Java     | Java with dcm4che 面向 pacs 医疗信息化服务系统的解析工具                                           |
