@@ -1,0 +1,13 @@
+{
+  "Author": "Nesb01t",
+  "Name": "EasyDalamud",
+  "Punchline": "只是一个简单的插件",
+  "Description": "只是一个简单的插件\n 用于测试",
+  "InternalName": "easyDalamud",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "dalamud"
+  ]
+}
