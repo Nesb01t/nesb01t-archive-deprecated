@@ -1,0 +1,7 @@
+name: AnvilOfAll
+version: '${project.version}'
+main: icu.nesb01t.anvilofall.AnvilOfAll
+api-version: 1.14
+commands:
+  giveitems:
+    permission: ServerManager

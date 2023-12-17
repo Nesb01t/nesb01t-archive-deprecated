@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/src/main/java/icu/nesb01t/anvilofall/AnvilOfAll.java" title="插件主类" extension="java"/>
+     <tree path="/src/main/java/icu/nesb01t/anvilofall/CommonMaterial.java" title="万用材料" extension="java"/>
+ </trees>
