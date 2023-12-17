@@ -10,3 +10,4 @@
 | FFXIVCaptureUtils | Python      | FFXIV 相关工具/爬虫                                                                      |
 | FantasyHouse      | Electron    | 通过 <艾欧泽亚售楼中心> 的售楼信息筛选你相好的地皮，赞美售楼中心！                                                |
 | XIVAutoKey        | C#, Dalamud | Dalamud / FFXIV卫月 - press custom hotkey automatically                              |
+| Lightbringers     | C++         | wow 1.12.1 private server trainer cli                                              |
