@@ -1,0 +1,17 @@
+name: MoCommon
+version: '${project.version}'
+main: org.mocommon.MoCommon
+api-version: 1.20
+commands:
+  c:
+    description: clear items & args
+    usage: /c
+  r:
+    description: reload
+    usage: /r
+  gm:
+    description: set previos gamemode
+    usage: /gm
+  hp:
+    description: set hp
+    usage: /hp <hp>
