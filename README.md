@@ -12,3 +12,4 @@
 | XIVAutoKey        | C#, Dalamud | Dalamud / FFXIV卫月 - press custom hotkey automatically                              |
 | Lightbringers     | C++         | wow 1.12.1 private server trainer cli                                              |
 | LumosBringers     | C++, WPF    | wow 1.12.1 private server trainer with gui                                         |
+| MoCommon          | Spigot      | Spigot 1.20.x 提供 MonetStudio 开发支持的工具集                                              |
